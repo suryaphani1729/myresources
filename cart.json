@@ -1,0 +1,145 @@
+{
+	"data": [{
+			"title": "Crompton Air Cooler",
+			"type": "Air Cooler ",
+			"imageUrl": "https: //suryaphani1729.github.io/myresources/images/aircooler1.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 10000
+		},
+		{
+			"title": "Orient Air Cooler",
+			"type": "Air Cooler",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/aircooler2.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 12000
+		},
+		{
+			"title": "Rick Dad Poor Dad",
+			"type": "Book",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/book1.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 700
+		},
+		{
+			"title": "Great Expectations",
+			"type": "Book",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/book2.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 500
+		},
+		{
+			"title": "Iron man world",
+			"type": "Book",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/book3.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 800
+		},
+		{
+			"title": "Thor World",
+			"type": "Book",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/book4.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 800
+		},
+		{
+			"title": "Honor 8x",
+			"type": "Mobile",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/honor8x.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 8000
+		},
+		{
+			"title": "iPhone 6s",
+			"type": "Mobile",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/iphone6s.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 25000
+		},
+
+		{
+			"title": "iPhone 8",
+			"type": "Mobile",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/iphone8.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 65000
+		},
+		{
+			"title": "iPhone X",
+			"type": "Mobile",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/iphonex.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 95000
+		},
+		{
+			"title": "Mi 5 Pro",
+			"type": "Mobile",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/mi5pro.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 15000
+		},
+		{
+			"title": "Moto X4",
+			"type": "Mobile",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/motox4.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 7000
+		},
+		{
+			"title": "Pixel 2 XL",
+			"type": "Mobile",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/pixel2xl.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 75000
+		},
+		{
+			"title": "RealMe U1",
+			"type": "Mobile",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/realmeu1.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 9500
+		},
+		{
+			"title": "Samsung A50",
+			"type": "Mobile",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/samsunga50.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 35000
+		},
+		{
+			"title": "Samsung M20",
+			"type": "Mobile",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/samsungm20.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 5000
+		},
+		{
+			"title": "Sofa World1",
+			"type": "Furniture",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/sofa1.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 10000
+		},
+		{
+			"title": "Sofa World2",
+			"type": "Furniture",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/sofa2.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 12000
+		},
+		{
+			"title": "Car Toy",
+			"type": "Toy",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/toy1.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 500
+		},
+		{
+			"title": "Box Toy",
+			"type": "Toy",
+			"imageUrl": "https://suryaphani1729.github.io/myresources/images/toy2.jpg",
+			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
+			"price": 300
+		}
+	]
+
+}
