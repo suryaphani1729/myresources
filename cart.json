@@ -1,7 +1,7 @@
 {
 	"data": [{      "id" : 1001,
 			"title": "Crompton Air Cooler",
-			"type": "Air Cooler ",
+			"type": "Air Cooler",
 			"imageUrl": "https://suryaphani1729.github.io/myresources/images/aircooler1.jpg",
 			"desc": "some thing description is going here, some thing description is going here, some thing description is going here",
 			"price": 10000
